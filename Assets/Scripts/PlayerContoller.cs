@@ -17,7 +17,7 @@ public class PlayerContoller : MonoBehaviour
 
         Vector3 pos = transform.position;
 
-        pos.x = Mathf.Clamp(pos.x, leftScreenLimit, rightScreenLimit);
+        pos.x = Mathf.Clamp(pos.x, leftScreenLimit, rightScreenLimit);          //clamp the player to a specific area on screen
 
         transform.position = pos;
     }
