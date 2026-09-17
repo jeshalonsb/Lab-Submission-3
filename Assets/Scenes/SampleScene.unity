@@ -375,7 +375,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyController
   playerTransform: {fileID: 1686029153}
-  rotateSpeed: 2
+  rotateSpeed: 3
   rotateRadius: 2
   rotateAngle: 0
 --- !u!1 &1213597424 stripped
@@ -396,7 +396,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyController
   playerTransform: {fileID: 1686029153}
-  rotateSpeed: 2
+  rotateSpeed: 3
   rotateRadius: 2
   rotateAngle: 0
 --- !u!1 &1247283084 stripped
@@ -417,7 +417,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyController
   playerTransform: {fileID: 1686029153}
-  rotateSpeed: 2
+  rotateSpeed: 3
   rotateRadius: 2
   rotateAngle: 0
 --- !u!1 &1300081123 stripped
@@ -438,7 +438,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyController
   playerTransform: {fileID: 1686029153}
-  rotateSpeed: 2
+  rotateSpeed: 3
   rotateRadius: 2
   rotateAngle: 0
 --- !u!1001 &1316399742
